@@ -1,6 +1,6 @@
 # Controle-de-Drone-de-Bancada-de-Dupla-Hélice
 
-Durante um projeto de graduação foi feito o projeto para o controle de um drone de dupla hélice de bancada didático.
+Durante um projeto de graduação da Disciplina de COntrole Digital, foi feito o projeto para o controle de um drone de dupla hélice de bancada didático.
 
 Link para visualização do sistema em funcionamento:https://youtu.be/tLVo63yABtQ
 
