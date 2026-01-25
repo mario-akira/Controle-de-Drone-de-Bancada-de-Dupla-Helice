@@ -6,7 +6,7 @@ Link para visualização do sistema em funcionamento:https://youtu.be/tLVo63yABt
 
 ![image](https://github.com/user-attachments/assets/0d3cc475-eb29-4889-ab2c-14c0d187b2a9)
 
-Través de um Stm32f446re e de um potênciometro posicionado no eixo da haste para a determinação do ângulo da haste e então a atuação de controle do sistema.
+Através de um Stm32f446re e de um potênciometro posicionado no eixo da haste para a determinação do ângulo da haste e então a atuação de controle do sistema.
 
 Para modelagem, foram utilizados dados de um ensaio realizado pelo professor ministrante da disciplina, para um fitting pelo Matlab. A partir da função transferencia obtida, o sistema no domínio da frequência foi passado para o domínio discreto por um segurador de ordem zero, para então permitir o desenvolvimento de um controlador para o ARM.
 
